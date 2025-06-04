@@ -25,7 +25,7 @@ title: UPFI Film Periodical Collections
 tagline: an index of film periodicals collected by the UPFI Film Archive & Library 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The UPFI Film Periodical Collections is an index of film-related periodicals housed at the UPFI Film Archive & Library. This curated resource offers researchers, students, and cinephiles access to a wide range of local and international film magazines, journals, newsletters, and bulletins that span decades of cinematic discourse. The index provides bibliographic information, including publication titles, issue dates, and thematic focuses, enabling users to navigate the collection with ease. This initiative supports the UP Film Institute’s commitment to preserving and promoting critical, historical, and scholarly engagements with cinema."
+description: "The UPFI Film Periodical Collections is an index of film-related periodicals housed at the UPFI Film Archive & Library."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: UPFI Film Archives and Library
 
@@ -34,7 +34,7 @@ author: UPFI Film Archives and Library
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: upfiperiodicalindex
+metadata: demo-metadata
 
 ##########
 # Site/Organization Branding 
