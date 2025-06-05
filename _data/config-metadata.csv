@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
 identifier,Accession Number,
 record_level, Record Level,
-source_collection, Source Collection,
-periodical_name,Periodical Name,
+source, Source Collection,true,
+periodical_name,Periodical Name,true
 periodical_type, Periodical Type,true,
 volume, Volume No.,
 month, Month,
