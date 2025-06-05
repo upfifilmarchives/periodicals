@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: UPFI Index and Abstracts to Film Periodical Collections 
+title: UPFI Film Periodical Index 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: An index of film periodicals collected by the UPFI Film Archive & Library 
+tagline: An index of film periodicals from the UPFI Film Archives & Library
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The UPFI Film Periodical Collections is an index of film-related periodicals housed at the UPFI Film Archive & Library."
+description: "The UPFI Film Periodical Index is a curated, searchable database providing bibliographic information on film-related articles from the UP Film Institute’s collection of local and international periodicals. Built using CollectionBuilder and deployed on a flat database, it follows FIAF Film Periodical Indexing Standards to support researchers, students, and film enthusiasts in exploring critical writings, reviews, and essays on cinema."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: UPFI Film Archives and Library
 
