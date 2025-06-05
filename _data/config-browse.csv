@@ -2,3 +2,21 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator, Creator,,,
 source,,true
+title,,,true,Title
+date,,,true,Year of Publication
+creator,,,true,Author
+description,,,true,
+subject,,,true,Subject
+location,,,true,
+periodical_name,,,true,
+periodical_type,,,true,
+source_heading,,,true,
+creator,,,true,
+nature1_heading,,,true,
+nature2_heading,,,true,
+biographical_heading,,,true,
+corporate_name_heading,,,,true,
+film_description_heading,,,true,
+TV_description_heading,,,true,
+identifier,,,true,Accession Number
+article_identifier,,,true,Article Number
