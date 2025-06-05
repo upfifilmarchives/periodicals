@@ -19,9 +19,10 @@ pages, Pages,
 nature1_heading,Nature 1, true,
 nature2_heading,Nature 2, true,
 abstract,Abstract,
+language,Language,
 biographical_heading, Biographical Heading, true,,
 corporate_name_heading,Corporate Name Heading,true,,
 film_description_heading, Film Description Heading,true
 TV_description_heading,TV Description Heading,true
-subject_heading,true
+subject_heading,Subject Headings,true
 indexing_history, Indexing History,
