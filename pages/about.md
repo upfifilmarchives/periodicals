@@ -30,4 +30,4 @@ This is the Institute’s core periodical collection, composed of scholarly film
 An extensive archive of newspaper and magazine clippings, this collection is the result of active documentation of film-related news, articles, and features from the establishment of the UPFI Film Center in 1976 to the present. It provides a chronological view of Philippine cinema’s development as seen through mainstream and alternative press coverage.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
