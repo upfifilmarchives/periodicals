@@ -13,6 +13,7 @@ title,true,false
 creator,true,false
 nature1_heading,true,false
 nature2_heading,true,false
+contents,true,false
 abstract,true,false
 biographical_heading,true,false
 corporate_name_heading,true,false
