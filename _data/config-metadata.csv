@@ -1,15 +1,27 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+identifier,Accession Number,
+record_level, Record Level,
+source_collection, Source Collection,
+periodical_name,Periodical Name,
+periodical_type, Periodical Type,true,
+volume, Volume No.,
+month, Month,
+issue_number,Issue No., 
+publication_year, Year Published,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+access_conditions, Access Conditions,
+article_identifier, Article Identifier,
+source_heading,Source Heading,true
+article_title,Article Title,
+author_heading,Article Author,
+pages, Pages,
+nature1_heading,Nature 1, true,
+nature2_heading,Nature 2, true,
+abstract,Abstract,
+biographical_heading, Biographical Heading, true,,
+corporate_name_heading,Corporate Name Heading,true,,
+film_description_heading, Film Description Heading,true
+TV_description_heading,TV Description Heading,true
+subject_heading,true
+indexing_history, Indexing History,
