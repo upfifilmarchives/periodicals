@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://github.com/upfifilmarchives/periodicals/blob/main/objects/Film%20Magazines%20Pic.jpg" %}
+{% include feature/jumbotron.html objectid="s.wsj.net/public/resources/images/BN-HI237_WORKFA_M_20150310105119.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
