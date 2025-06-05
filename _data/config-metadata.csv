@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 identifier,Accession Number,
+article_identifier, Article Identifier,
 record_level, Record Level,
 source, Source Collection,true,
 periodical_name,Periodical Name,true
@@ -8,16 +9,13 @@ volume, Volume No.,
 month, Month,
 issue_number,Issue No., 
 date, Year Published,
-type,Type,
-format,Format,
-access_conditions, Access Conditions,
-article_identifier, Article Identifier,
+contents,Issue Contents,
 source_heading,Source Heading,true
 title,Issue/Article Title,
 creator,Article Author,
 pages, Pages,
-nature1_heading,Nature 1, true,
-nature2_heading,Nature 2, true,
+nature1_heading,Nature 1,true,
+nature2_heading,Nature 2,true,
 abstract,Abstract,
 language,Language,
 biographical_heading, Biographical Heading,true,,
@@ -26,3 +24,7 @@ film_description_heading, Film Description Heading,true
 TV_description_heading,TV Description Heading,true
 subject,Subject Headings,true
 indexing_history, Indexing History,
+link,Link to Issue,,true
+type,Type,
+format,Format,
+access_conditions, Access Conditions,
