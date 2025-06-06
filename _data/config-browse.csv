@@ -20,4 +20,4 @@ film_description_heading,,,true,
 TV_description_heading,,,true,
 identifier,,,true,Accession Number
 article_identifier,,,true,Article Number
-record_level,,true,,
+record_level,Record Type,true,,
