@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 date,Year,,,Date
 creator, Creator,,,
-record_level,Record Type,true,,
-source,Source Collection,true
+record_level,,true,,
+source,,true
 title,,,true,Title
 date,,,true,Year of Publication
 creator,,,true,Author
