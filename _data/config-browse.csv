@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
-source_heading,Issue Source,true,,
 creator, Creator,,,
 date,Year,,,Year
+source_heading,Issue Source,true,,
 record_level,,true,,
 source,,true
 title,,,true,Title
