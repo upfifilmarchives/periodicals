@@ -1,7 +1,8 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
+date,Year,,,Date
 creator, Creator,,,
-source,,true
+record_level,Record Type,true,,
+source,Source Collection,true
 title,,,true,Title
 date,,,true,Year of Publication
 creator,,,true,Author
@@ -20,4 +21,3 @@ film_description_heading,,,true,
 TV_description_heading,,,true,
 identifier,,,true,Accession Number
 article_identifier,,,true,Article Number
-record_level,Record Type,true,,
