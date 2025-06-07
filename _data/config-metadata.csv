@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
 identifier,Accession Number,
 article_identifier, Article Identifier,
-record_level, Record Level,true,
-source, Source Collection,true,
+title,Issue/Article Title,
+creator,Article Author/Issue Publisher,true,
 periodical_name,Periodical Name,true
 periodical_type, Periodical Type,true,
 volume, Volume No.,
@@ -10,10 +10,10 @@ month, Month,
 issue_number,Issue No., 
 date, Year Published,
 source_heading,Source Heading,true
-title,Issue/Article Title,
-creator,Article Author/Issue Publisher,true,
 contents,Issue Contents,
 pages, Pages,
+record_level, Record Level,true,
+source, Source Collection,true,
 nature1_heading,Article Type,true,
 nature2_heading,Article Contents,true,
 abstract,Abstract,
