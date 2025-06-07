@@ -1,4 +1,5 @@
 field,display_name,browse_link,external_link
+source_heading,Source Heading,true
 identifier,Accession Number,
 article_identifier, Article Identifier,
 title,Issue/Article Title,
@@ -9,7 +10,6 @@ volume, Volume No.,
 month, Month,
 issue_number,Issue No., 
 date, Year Published,
-source_heading,Source Heading,true
 contents,Issue Contents,
 pages, Pages,
 record_level, Record Level,true,
