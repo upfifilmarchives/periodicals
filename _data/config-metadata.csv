@@ -11,7 +11,7 @@ issue_number,Issue No.,
 date, Year Published,
 source_heading,Source Heading,true
 title,Issue/Article Title,
-creator,Article Author,true,
+creator,Article Author/Issue Publisher,true,
 contents,Issue Contents,
 pages, Pages,
 nature1_heading,Article Type,true,
