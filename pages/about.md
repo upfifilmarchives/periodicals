@@ -32,12 +32,32 @@ An extensive archive of newspaper and magazine clippings, this collection is the
 ## About the Indexing Progress
 
 The periodical collection currently holds around 1200+ volumes of magazines. As of now, the progress is as follows: 
-| Category                      | Number of Issues |
-|------------------------------|------------------|
-| Total number of Issues       | 1200             |
-| Total number of INDEXED      | 2                |
-| Total number of CATALOGUED   | 3                |
-| Date Updated                 | 2025-06-10       |
+<table style="width: 60%; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Category</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: right;">Number of Issues</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Total number of Issues</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">1200</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Total number of INDEXED</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">2</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Total number of CATALOGUED</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">3</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Date Updated</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">2025-06-10</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
