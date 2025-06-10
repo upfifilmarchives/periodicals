@@ -29,5 +29,16 @@ This is the Institute’s core periodical collection, composed of scholarly film
 ### UPFI News Clippings
 An extensive archive of newspaper and magazine clippings, this collection is the result of active documentation of film-related news, articles, and features from the establishment of the UPFI Film Center in 1976 to the present. It provides a chronological view of Philippine cinema’s development as seen through mainstream and alternative press coverage.
 
+## About the Indexing Progress
+
+The periodical collection currently holds around 1200+ volumes of magazines. As of now, the progress is as follows: 
+| Category                      | Number of Issues |
+|------------------------------|------------------|
+| Total number of Issues       | 1200             |
+| Total number of INDEXED      | 2                |
+| Total number of CATALOGUED   | 3                |
+| Date Updated                 | 2025-06-10       |
+
+
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 
