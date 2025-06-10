@@ -27,4 +27,6 @@ indexing_history, Indexing History,
 link,Link to Issue,,true
 type,Type,
 format,Format,
-access_conditions, Access Conditions,
+availability, Accessible via online repository?,
+link_external,External Link,,true
+access_conditions,How to Access,
