@@ -32,7 +32,7 @@ An extensive archive of newspaper and magazine clippings, this collection is the
 ## About the Indexing Progress
 
 The periodical collection currently holds around 1200+ volumes of magazines. As of now, the progress is as follows: 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center; height: 1vh;">
   <table style="width: 60%; border-collapse: collapse; font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <thead>
       <tr style="background-color: #f2f2f2;">
